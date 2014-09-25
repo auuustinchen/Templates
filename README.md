@@ -1,0 +1,4 @@
+Templates
+=========
+
+Contains file templates.
